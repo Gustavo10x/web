@@ -1,7 +1,4 @@
-# Softgraf
-## Curso de desenvolvimento web
-
-Comanda GitHub
+## Comando GitHub Professor Gabriel
 
 ## copiar repositório online para seu computador
 git clone link_do_repositório
