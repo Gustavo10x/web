@@ -7,6 +7,7 @@ git clone link_do_repositório
 git add -A  
 git commit -m "Sua mensagem aqui"  
 git push
+git push --set-upstream origin aula3
 
 ## criar uma nova branch
 git checkout -b name_branch
